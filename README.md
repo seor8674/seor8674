@@ -1,4 +1,5 @@
-### Hi there 👋
+### 저는 백엔드 개발자가 되기위해 1년째 공부하고있는 예비 백엔드 개발자 이환준입니다.
+
 
 <!--
 **seor8674/seor8674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
