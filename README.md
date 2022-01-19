@@ -11,7 +11,6 @@
  <li>Spring Gradle Intelli J</li>
  <li>Spring security JWT Token</li>
  <li>My sql Spring Data JPA Query dsl</li>
- <li>Jnit 5 Mock Assert</li>
  <li>AWS ec2 AWS RDS Post man</li>
 </ul>
 <h4>Collaboration</h4>
